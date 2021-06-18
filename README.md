@@ -1,0 +1,3 @@
+# 3DESKeyGenerator
+
+Simple tool to generate 3DES keys with KCV...
